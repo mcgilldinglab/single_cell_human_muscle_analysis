@@ -14,6 +14,8 @@ numpy >= 1.21.3
 
 pandas >= 1.3.4 
 
+scipy >= 1.10.0  
+
 ## Usage
 
 ```sh
