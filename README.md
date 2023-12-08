@@ -2,6 +2,8 @@
 
 Data analysis of the cell type-specific expression pattern of genes associated with SARS-CoV-2 infection in single-cell human muscle datasets. 
 
+DeMicheli dataset comes from GSE143704 and Sealfon dataset comes from GSE130646.
+
 ## Prerequisites  
 
 Python == 3.10.9
