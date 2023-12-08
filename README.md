@@ -5,8 +5,11 @@ Data analysis of the cell type-specific expression pattern of genes associated w
 ## Prerequisites  
 
 Python == 3.10.9
+
 scanpy >=1.9.3
+
 numpy >= 1.21.3 
+
 pandas >= 1.3.4 
 
 ## Usage
