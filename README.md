@@ -21,7 +21,7 @@ git clone https://github.com/mcgilldinglab/single_cell_human_muscle_analysis
 cd single_cell_human_muscle_analysis
 ```
 
-And then use the jupyter lab (notebook) to run the `script.ipynb` file.
+And then use the jupyter lab (notebook) to run the `scripts.ipynb` file.
 
 ## Contact
-[Yumin Zheng](mailto:yumin.zheng@mil.mcgill.ca)
+[Yumin Zheng](mailto:yumin.zheng@mail.mcgill.ca)
