@@ -1,0 +1,11 @@
+HISTORICAL LICENSE AND ATTRIBUTION NOTICES — single_cell_human_muscle_analysis
+
+Baseline before the licensing update:
+https://github.com/mcgilldinglab/single_cell_human_muscle_analysis/commit/81444868c68fdda2554833238df1c0eac37281af
+
+The following prior notices are retained verbatim. Earlier grants and notices
+continue to apply to the material they cover; the new licensing notice does
+not revoke those rights or relicense third-party material.
+
+No root license file was present in the captured baseline.
+
